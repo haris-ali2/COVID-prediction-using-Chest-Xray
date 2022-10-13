@@ -27,7 +27,7 @@ Apart from this, the deep learning models used include convolutional neural netw
 3. ResNet-50
 4. AlexNet
 
-The convolutional NN code is contained in the folder `Convolutional_neural_network`, while the other three models are located in `Transfer_learning_models`.
+The Convolutional Neural Networks (CNN's) code is contained in the folder `Convolutional_neural_network`, while the other three models are located in `Transfer_learning_models`.
 
 ## 4. Model Evaluation
 Multiple evaluation metrices have been used for the evaluation of these models. The metrices we used in the study are:
