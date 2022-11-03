@@ -1,7 +1,7 @@
 # ML and DL architecture comparison for COVID-19 classification using Chest X-ray Images
 ### The documentation for the whole approach can be found in the following published book chapter:
-- Afzal, E., Saba, T., Ali, H., Karim, A., Javed, K. (2022). ML and DL Architectures Comparisons for the Classification of COVID-19 Using Chest X-Ray Images. In: Saba, T., Rehman, A., Roy, S. (eds) Prognostic Models in Healthcare: AI and Statistical Approaches. Studies in Big Data, vol 109. Springer, Singapore. https://doi.org/10.1007/978-981-19-2057-8_16\
---
+- Afzal, E., Saba, T., Ali, H., Karim, A., Javed, K. (2022). ML and DL Architectures Comparisons for the Classification of COVID-19 Using Chest X-Ray Images. In: Saba, T., Rehman, A., Roy, S. (eds) Prognostic Models in Healthcare: AI and Statistical Approaches. Studies in Big Data, vol 109. Springer, Singapore. https://doi.org/10.1007
+
 # The overall Approach
 ### The whole study can be divided into the following sections:
 ## 1. Data Collection
